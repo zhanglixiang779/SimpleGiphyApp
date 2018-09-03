@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleGiphyApp</string>
+    <string name="title">Title</string>
+    <string name="shows_image">Shows image</string>
+    <string name="search">Search...</string>
+    <string name="not_available">Not Available</string>
+</resources>
